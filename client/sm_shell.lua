@@ -45,7 +45,7 @@ function SpawnSMShell(id, coords, property)
             id = id,
             position = coords,
             doorPositionChanged = function(door, position)
-                self.doorPositionChanged(door, position)
+                self.DoorPositionChanged(door, position)
             end,
             canOpenMenu = function()
                 return SMConfig.data.allowPlayerModifications and property.owner
