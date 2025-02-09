@@ -61,9 +61,9 @@ This will open a furniture store complete with all of the props. Select an item 
 
 -   [K4MB1](https://github.com/Project-Sloth/ps-housing/wiki/K4MB1-Shells-Support-&-Offsets)
 
-### Smodsk Shell Buillder Support
+### Shell Builder Support
 
--   [sModsk] 
+-   [sModsk](https://smodsk.tebex.io/package/6674161) 
 
 ## Installation
 
