@@ -1,3 +1,6 @@
+Big thanks to the original creators of PS Housing for their incredible work on this project. Please check out their repository for more details and contributions!
+https://github.com/Project-Sloth/ps-housing
+
 # ps-housing IPL & MLO Support
 
 ## Table of Contents
